@@ -12,8 +12,8 @@ I am hereby listing a group of countries that you must visit in your lifetime. S
 |:-----:               |:---:                                                 |:-------------------:|
 | U.S.A.              | Beautiful country also known as LAND OF OPPORTUNITY.      | 1 month |
 | India               |Beautiful country famous for the cultural diversity.| 20 days |
-| Canada              | Another beautiful country which is famous for the country's| 7 days |
-| U.K.                | Again a beautiful country which is famous for the country's| 7 days | 
+| Canada              | Country which is famous for the country's beauty.| 7 days |
+| U.K.                | Country which is famous for the country's historical monuments.| 7 days | 
                                    
 
 
