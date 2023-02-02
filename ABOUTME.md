@@ -11,8 +11,8 @@ I am hereby listing a group of countries that you must visit in your lifetime. S
 | NAME OF THE COUNTRY | REASON TO VISIT                                       |NUMBER OF DAYS TO VISIT|
 |:-----:               |:---:                                                 |:-------------------:|
 | U.S.A.              | Beautiful country also known as LAND OF OPPORTUNITY.      | 1 month |
-                      Has beautiful wildlife(flora and fauna) and lot of
-                      tourist attractions. Home to 1 of the 7 Wonders of
+                        Has beautiful wildlife(flora and fauna) and lot of
+                        tourist attractions. Home to 1 of the 7 Wonders of
                       the World with the presence of Niagara Falls and Empire 
                       State Building in New York.
 
