@@ -18,6 +18,7 @@ I am hereby listing a group of countries that you must visit in your lifetime. S
 *** FUNNY QUOTES
 >“Never follow anyone else’s path. Unless you’re in the woods and you’re lost and you see a path. Then by all means follow that path.”
 *Ellen DeGeneres
+
 >“Breaking up is like knocking over a Coke machine. You can’t do it in one push; you got to rock it back and forth a few times, and then it goes over.”
 *Jerry Seinfeld
                                    
